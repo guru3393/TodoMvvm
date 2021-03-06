@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TodoMvvm</string>
+    <string name="delete">delete</string>
+    <string name="save">Save</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_content">Enter Creator</string>
+    <string name="enter_date">Date</string>
+    <string name="pleaseEnterTitle">Please enter title</string>
+    <string name="pleaseEnterContent">Please enter creator</string>
+    <string name="pleaseEnterDate">Please enter Date</string>
+    <string name="viewOrEditTodo">View/Edit Todo</string>
+    <string name="createTodo">Create Todo</string>
+    <string name="title">Title</string>
+    <string name="creator">Creator</string>
+    <string name="date">Date</string>
+</resources>
